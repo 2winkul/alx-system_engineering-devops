@@ -1,9 +1,2 @@
 #!/bin/bash
-
-
-<betty> ALL = NOPASSWD: ALL
-
-
-
-
-
+<betty> ALL = NOPASSWD: ALL 
