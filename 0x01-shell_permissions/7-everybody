@@ -1,2 +1,2 @@
 #!/bin/bash
-chomod 755 hello
+chomod ugo+x hello
